@@ -6,3 +6,5 @@ Now I am going to edit the readme file.
 I have add something from my local machine
 
 I add more staff here
+
+This is a good testing
